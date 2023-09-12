@@ -19,7 +19,7 @@ export function generateMetadata() {
 const About = () => {
   return (
     <>
-      <main>Welcome to About Page configurations</main>
+      <main>Welcome to About Page configuration</main>
     </>
   );
 };
